@@ -15,9 +15,9 @@
 |                                                                                                                                        | [Enter](https://static-wordle.vercel.app/api/markdown-game/press-submit)                                                               | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/z)](https://static-wordle.vercel.app/api/markdown-game/press-key/z) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/x)](https://static-wordle.vercel.app/api/markdown-game/press-key/x) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/c)](https://static-wordle.vercel.app/api/markdown-game/press-key/c) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/v)](https://static-wordle.vercel.app/api/markdown-game/press-key/v) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/b)](https://static-wordle.vercel.app/api/markdown-game/press-key/b) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/n)](https://static-wordle.vercel.app/api/markdown-game/press-key/n) | [![](https://static-wordle.vercel.app/api/markdown-game/assets/key/m)](https://static-wordle.vercel.app/api/markdown-game/press-key/m) | [Delete](https://static-wordle.vercel.app/api/markdown-game/press-backspace)                                                           |
 
  </div>
- 
- ---
- 
- [Source code](https://github.com/wyattades/wordle)
 
- 
+---
+
+[Source code](https://github.com/wyattades/wordle)
+
+_Game automatically resets every 10 minutes._
